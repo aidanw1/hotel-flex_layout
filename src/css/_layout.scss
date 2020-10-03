@@ -1,5 +1,5 @@
 .container {
-  max-width: 130rem;
+  max-width: 150rem;
   margin: 8rem auto;
   min-height: 50rem;
   background-color: var(--color-grey-light-2);
@@ -67,7 +67,7 @@
   background-color: #fff;
   box-shadow: var(--shadow-light);
   padding: 3rem;
-  flex-basis: 60%;
+  flex-basis: 40%;
   margin-right: 4.5rem;
 
   @media only screen and(max-width: $bp-medium) {

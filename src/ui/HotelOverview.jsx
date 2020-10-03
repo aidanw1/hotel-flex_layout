@@ -9,6 +9,7 @@ const HotelOverview = () => (
     <div className="detail">
       <HotelDetails />
       <HotelReviews />
+      <BookNow />
     </div>
   </>
 );
